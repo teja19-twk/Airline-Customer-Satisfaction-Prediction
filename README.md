@@ -87,3 +87,17 @@ Flight delays negatively affect passenger experience.
 Machine Learning models can effectively predict customer satisfaction levels.
 Flight delays negatively affect passenger experience.
 Machine Learning models can effectively predict customer satisfaction levels.
+
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Airline-Customer-Satisfaction-Prediction.git
+
+pip install -r requirements.txt
+
+
+Installation Compip install -r requirements.txtInstallation Command
+pip install -r requirements.txt
