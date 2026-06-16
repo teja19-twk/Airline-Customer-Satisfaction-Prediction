@@ -12,7 +12,6 @@ Airlines need to understand customer preferences and service quality factors to 
 DATASET FEATURES
 
 Gender
-
 Customer Type
 Age
 Type of Travel
